@@ -1,0 +1,1 @@
+# Nagios scripts for notifications
